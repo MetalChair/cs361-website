@@ -5,8 +5,9 @@ due:
     title: homework 2
     date: 2021-02-12T16:59:59-6:00
     description: 'Assignment #2 due'
-    github_link: https://classroom.github.com/a/S_KKbtOw
----
+date: 2021-01-25
+github_link: https://classroom.github.com/a/S_KKbtOw
+
 
 ### {{ page.title }}: Inspecting Running Processes
 
